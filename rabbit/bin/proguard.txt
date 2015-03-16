@@ -1,0 +1,27 @@
+# view AndroidManifest.xml #generated:45
+-keep class com.baidu.location.f { <init>(...); }
+
+# view res/layout/slidemenu_main.xml #generated:40
+-keep class com.baidu.mapapi.map.MapView { <init>(...); }
+
+# view AndroidManifest.xml #generated:36
+-keep class com.rabbit.app.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.rabbit.app.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.rabbit.app.RabbitApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.rabbit.app.RegisterActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:40
+-keep class com.rabbit.app.RegisterConfirmActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:28
+-keep class com.rabbit.app.WelcomeActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:7
+-keep class com.rabbit.app.view.SlideMenu { <init>(...); }
+
